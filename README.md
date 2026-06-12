@@ -8,10 +8,10 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="https://vedhegishte11@gmail.com">
     <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME">
+  <a href="https://leetcode.com/u/vedhegishte_11/">
     <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
   <a href="https://github.com/vedhegishte25">
