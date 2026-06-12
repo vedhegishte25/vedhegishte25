@@ -5,23 +5,19 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
-    <img src="https://cdn.simpleicons.org/linkedin" width="28" height="28" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://cdn.simpleicons.org/gmail" width="28" height="28" />
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME">
-    <img src="https://cdn.simpleicons.org/leetcode" width="28" height="28" />
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/vedhegishte25">
-    <img src="https://cdn.simpleicons.org/github" width="28" height="28" />
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
-
 <br>
 
 <p align="center">
