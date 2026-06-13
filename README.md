@@ -5,18 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://vedhegishte11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://leetcode.com/u/vedhegishte_11/">
-    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white">
-  </a>
-  <a href="https://github.com/vedhegishte25">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;<a href="mailto:vedhegishte11@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;<a href="https://leetcode.com/u/vedhegishte_11/"><img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white"></a>&nbsp;<a href="https://github.com/vedhegishte25"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <br>
 
