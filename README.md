@@ -16,17 +16,9 @@
 <br>
 
 <p align="center">
-<table>
-<tr>
-<td width="120" align="center">
-<a href="https://www.youtube.com/watch?v=qU9mHegkTc4">
-<img src="https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163" width="100">
-</a>
-</td>
-<td align="center">
-<b>505</b><br>
-Arctic Monkeys
-</td>
-</tr>
-</table>
+  <a href="https://www.youtube.com/watch?v=qU9mHegkTc4">
+    <img src="https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163" width="100" style="border-radius:8px">
+  </a>
+  &nbsp;&nbsp;
+  <b>505</b> — Arctic Monkeys
 </p>
