@@ -15,7 +15,7 @@
 
 <br>
 
-<div align="center">
+<p align="center">
 <table>
 <tr>
 <td width="120" align="center">
@@ -29,4 +29,4 @@ Arctic Monkeys
 </td>
 </tr>
 </table>
-</div>
+</p>
