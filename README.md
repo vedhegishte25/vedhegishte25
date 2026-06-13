@@ -1,4 +1,4 @@
-<h1 align="center">hii, i'm ved 👋</h1>
+<h1 align="center">hii, i'm ved ;)</h1>
 <p align="center">
   i build stuff, break stuff, and eventually figure out why it broke.
 </p>
