@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vedhegishte25&theme=github-dark&hide_border=true" alt="GitHub Streak">
+  <a href="https://www.youtube.com/watch?v=qU9mHegkTc4"><img src="https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163" width="100"></a>&nbsp;&nbsp;<b>505</b> — Arctic Monkeys
 </p>
 
 <br>
